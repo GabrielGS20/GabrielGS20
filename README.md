@@ -1,8 +1,7 @@
 ### Hi there 👋
-
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 <!--
 **GabrielGS20/GabrielGS20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 Here are some ideas to get you started:
 
